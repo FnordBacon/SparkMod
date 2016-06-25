@@ -1,2 +1,2 @@
 # SparkMod
-My first attempt at modding minecraft
+A magictech mod for minecraft
